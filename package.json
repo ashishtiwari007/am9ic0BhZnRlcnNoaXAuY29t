@@ -17,7 +17,8 @@
     "request": "~2.74.0",
     "mongoose": "~4.5.9",
     "beanstalk_client": "~0.2.0",
-    "fivebeans": "~1.4.1"
+    "fivebeans": "~1.4.1",
+    "bluebird":"*"
   },
   "devDependencies": {
     "eslint": "~3.3.1",
